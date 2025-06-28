@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aniketdey/Documents/quant_c++_notes/c++",
+      "program": "/Users/aniketdey/Documents/quant_c++_notes/c++/build/Debug/outDebug"
+    }
+  ]
+}
