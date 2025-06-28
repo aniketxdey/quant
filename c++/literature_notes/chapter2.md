@@ -2,9 +2,22 @@
 ## Chapter 2: The Mechnaics of C++ - from Source Code to a Running Program
 - Define syntax to create and run simple programs, and understand how they are run
 
-## 1.2 Short Background
-- C++ = C "with classes"
-- Object-oriented projects and classes, but is multi-paradigm in nature
+## 2.2 The Compilation Process
+- C++ language is detailed in Stroustoup
+- A compiler is an executable program that accepts a text file containing C++ 
+    - Translates code into a form that eventually executes in a computer
+    - We split a problem into independent pieces or modules - each module is implelemnted by valid C++ code - ex: C/C++ function or a C++ class
+- Each module is implelemted by a C/C++ function or C++ class in the code
+- Create two files - one with declaration of all functions and data with the other file being the actual code body of each function
+    - Header file: contains declarations of all functions and data
+    - Code file: the file containing the actual body of all functions
+- Variations on & exceptions to this strategy
+- Header file typiclaly contains the declaration of all functions and data that we are going to use
+    - In the case of functions, we define the signature of a fucntion as consisting of: name, return type, and input arguments
+    - In the case of daa
+
+
+
 
 ## 1.3 Multi-Paradigm Analysis
 ### Object-Oriented Paradigm
